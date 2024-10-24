@@ -557,6 +557,7 @@ a{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    row-gap:2;
 }
 .box4{
     height:300px;
