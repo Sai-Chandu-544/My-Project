@@ -359,13 +359,13 @@ H1{
     padding-top: 20px;
     padding-bottom: 50px;
 }
-label{
+/* label{
     font-weight: 800;
 } 
  .text{
     height:15px;
     width:200px;
-}
+} */
 /*  .radio{ */
     margin-left: 10px;
     margin-right: 5px;
@@ -376,7 +376,7 @@ textarea{
    width: 200px;
    padding-top: 10px;
    
-} */
+} 
 .link{
     text-decoration: none;
     color: black;
@@ -403,6 +403,20 @@ button{
         box-shadow: 5px 5px 10px #555;
        
     }
+    label{
+    font-weight: 800;
+} 
+ .text{
+    height:15px;
+    width:200px;
+}
+    textarea{
+   position:relative;
+   top: 10px;
+   width: 200px;
+   padding-top: 10px;
+   
+} 
     button{
         margin-left: 20px;
         height: 20px;
