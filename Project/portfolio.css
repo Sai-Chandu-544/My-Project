@@ -367,10 +367,10 @@ label{
     height:15px;
     width:200px;
 }
-.radio{
+/*  .radio{ */
     margin-left: 10px;
     margin-right: 5px;
-}
+} */
 textarea{
    position:relative;
    top: 10px;
